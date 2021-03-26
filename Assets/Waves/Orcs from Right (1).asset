@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96adb1e49989223479ab52f3af42b3c0, type: 3}
+  m_Name: Orcs from Right (1)
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 3491771821261039455, guid: bc22fdffdd09b1f40aa625c1efe8e200,
+    type: 3}
+  pathPrefab: {fileID: 2582861742253256069, guid: df312a0a521c47b48833fa6c0015b16a,
+    type: 3}
+  timeBetweenSpawns: 3.5
+  spawnRandomFactor: 0.3
+  moveSpeed: 15
+  numberOfEnemies: 1

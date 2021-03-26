@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96adb1e49989223479ab52f3af42b3c0, type: 3}
+  m_Name: Ghost from Right (1)
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 4656860942090960026, guid: 2fe29faeb980ae347ab71bd3ef616279,
+    type: 3}
+  pathPrefab: {fileID: 5412667600808609196, guid: 78fc75ada96ebdf45af2640173131362,
+    type: 3}
+  timeBetweenSpawns: 1
+  spawnRandomFactor: 0.3
+  moveSpeed: 30
+  numberOfEnemies: 1
